@@ -10,15 +10,15 @@
 - Interactive command-line interface.
 
 ## Screenshots
-<img align="center" alt="coding" width="400" src="https://github.com/nrkkR/Python_My-Snake-Xenia/blob/main/My%20Snake%20Xenia%20_%20Welcome%20screen.png">
-<img align="center" alt="coding" width="400" src="https://github.com/nrkkR/Python_My-Snake-Xenia/blob/main/My%20Snake%20Xenia%20_Main%20game%20screen.png">
-<img align="center" alt="coding" width="400" src="https://github.com/nrkkR/Python_My-Snake-Xenia/blob/main/My%20Snake%20Xenia%20_Game%20Over%20screen.png">
-<img align="center" alt="coding" width="400" src="https://github.com/nrkkR/Python_My-Snake-Xenia/blob/main/My%20Snake%20Xenia%20_%20Welcome%20screen.png">
-<img align="center" alt="coding" width="400" src="https://github.com/nrkkR/Python_My-Snake-Xenia/blob/main/My%20Snake%20Xenia%20_Main%20game%20screen.png">
-<img align="center" alt="coding" width="400" src="https://github.com/nrkkR/Python_My-Snake-Xenia/blob/main/My%20Snake%20Xenia%20_Game%20Over%20screen.png">
-<img align="center" alt="coding" width="400" src="https://github.com/nrkkR/Python_My-Snake-Xenia/blob/main/My%20Snake%20Xenia%20_%20Welcome%20screen.png">
-<img align="center" alt="coding" width="400" src="https://github.com/nrkkR/Python_My-Snake-Xenia/blob/main/My%20Snake%20Xenia%20_Main%20game%20screen.png">
-<img align="center" alt="coding" width="400" src="https://github.com/nrkkR/Python_My-Snake-Xenia/blob/main/My%20Snake%20Xenia%20_Main%20game%20screen.png">
+<img align="center" alt="coding" width="650" src="https://github.com/nrkkR/Python_Enhanced-Tic-Tac-Toe/blob/main/py_ttt%20welcome%20screen.png">
+<img align="center" alt="coding" width="650" src="https://github.com/nrkkR/Python_My-Snake-Xenia/blob/main/My%20Snake%20Xenia%20_Main%20game%20screen.png">
+<img align="center" alt="coding" width="650" src="https://github.com/nrkkR/Python_My-Snake-Xenia/blob/main/My%20Snake%20Xenia%20_Game%20Over%20screen.png">
+<img align="center" alt="coding" width="650" src="https://github.com/nrkkR/Python_My-Snake-Xenia/blob/main/My%20Snake%20Xenia%20_%20Welcome%20screen.png">
+<img align="center" alt="coding" width="650" src="https://github.com/nrkkR/Python_My-Snake-Xenia/blob/main/My%20Snake%20Xenia%20_Main%20game%20screen.png">
+<img align="center" alt="coding" width="650" src="https://github.com/nrkkR/Python_My-Snake-Xenia/blob/main/My%20Snake%20Xenia%20_Game%20Over%20screen.png">
+<img align="center" alt="coding" width="650" src="https://github.com/nrkkR/Python_My-Snake-Xenia/blob/main/My%20Snake%20Xenia%20_%20Welcome%20screen.png">
+<img align="center" alt="coding" width="650" src="https://github.com/nrkkR/Python_My-Snake-Xenia/blob/main/My%20Snake%20Xenia%20_Main%20game%20screen.png">
+<img align="center" alt="coding" width="650" src="https://github.com/nrkkR/Python_My-Snake-Xenia/blob/main/My%20Snake%20Xenia%20_Main%20game%20screen.png">
 
 
 ## Detailed Instructions
