@@ -14,7 +14,7 @@
 <img align="center" alt="coding" width="650" src="https://github.com/nrkkR/Python_Enhanced-Tic-Tac-Toe/blob/main/py_ttt%20main%20menu%20screen.png">
 <img align="center" alt="coding" width="650" src="https://github.com/nrkkR/Python_Enhanced-Tic-Tac-Toe/blob/main/py_ttt%20chosen%202%20player%20mode.png">
 <img align="center" alt="coding" width="650" src="https://github.com/nrkkR/Python_Enhanced-Tic-Tac-Toe/blob/main/py_ttt%20make%20the%20first%20move.png">
-<img align="center" alt="coding" width="650" src="https://github.com/nrkkR/Python_My-Snake-Xenia/blob/main/My%20Snake%20Xenia%20_Main%20game%20screen.png">
+<img align="center" alt="coding" width="650" src="https://github.com/nrkkR/Python_Enhanced-Tic-Tac-Toe/blob/main/py_ttt%20in%20game.png">
 <img align="center" alt="coding" width="650" src="https://github.com/nrkkR/Python_My-Snake-Xenia/blob/main/My%20Snake%20Xenia%20_Game%20Over%20screen.png">
 <img align="center" alt="coding" width="650" src="https://github.com/nrkkR/Python_My-Snake-Xenia/blob/main/My%20Snake%20Xenia%20_%20Welcome%20screen.png">
 <img align="center" alt="coding" width="650" src="https://github.com/nrkkR/Python_My-Snake-Xenia/blob/main/My%20Snake%20Xenia%20_Main%20game%20screen.png">
