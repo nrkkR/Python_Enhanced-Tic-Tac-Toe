@@ -18,7 +18,7 @@
 <img align="center" alt="coding" width="800" src="https://github.com/nrkkR/Python_Enhanced-Tic-Tac-Toe/blob/main/py_ttt%20winner%20screen.png">
 <img align="center" alt="coding" width="650" src="https://github.com/nrkkR/Python_Enhanced-Tic-Tac-Toe/blob/main/py_ttt%20cpu%20mode%20difficulty.png">
 <img align="center" alt="coding" width="650" src="https://github.com/nrkkR/Python_Enhanced-Tic-Tac-Toe/blob/main/py_ttt%20cpu%20or%20user%20make%20the%20first%20move.png">
-<img align="center" alt="coding" width="650" src="https://github.com/nrkkR/Python_My-Snake-Xenia/blob/main/My%20Snake%20Xenia%20_Main%20game%20screen.png">
+<img align="center" alt="coding" width="650" src="https://github.com/nrkkR/Python_Enhanced-Tic-Tac-Toe/blob/main/py_ttt%20game%20over%20screen.png">
 
 
 ## Detailed Instructions
