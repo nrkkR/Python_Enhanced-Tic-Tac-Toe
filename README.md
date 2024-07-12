@@ -38,10 +38,13 @@
    - **Player vs Computer Mode:** Challenge an AI opponent with varying difficulty levels (coming soon).
    - **Interactive Interface:** Clear prompts and visual feedback guide gameplay.
 
-4. **Special Game Mode (Coming Soon):**
+4. **Special Game Mode:**
    - **God Mode:** A highly challenging AI opponent known for its unbeatable strategy. If beaten, unlocks a special achievement or surprise feature.
+  
+5. **Hall of Fame Button:**
+   - Discover the legends who have achieved remarkable victories in this Tic Tac Toe battle. Click the "Hall of Fame" button to view their glorious triumphs and strategies!
 
-5. **Customization:**
+6. **Customization:**
    - **Board Size:** Modify the board size for different challenges (coming soon).
    - **Graphics:** ASCII art and stylish fonts enhance the visual appeal of the game.
 
